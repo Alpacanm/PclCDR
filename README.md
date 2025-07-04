@@ -12,7 +12,7 @@ Official codebase for the paper Preference Prototype-Aware Learning for Universa
 
 ## Datasets
 
-We use the datasets provided by [UniCDR](https://github.com/cjx96/UniCDR)
+We use the datasets provided by [UniCDR](https://github.com/cjx96/CDRIB)
 
 
 
