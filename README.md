@@ -14,6 +14,8 @@ Official codebase for the paper Preference Prototype-Aware Learning for Universa
 
 We use the datasets provided by [CDRIB](https://github.com/cjx96/CDRIB)
 
+## Environment
+Using Python 3.7, with other detailed environment information referenced in the requirements.txt file.****
 
 
 ## Usage
